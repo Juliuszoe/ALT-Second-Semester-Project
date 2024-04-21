@@ -10,3 +10,5 @@ Ensure the bash script is reusable and readable.
 Using an Ansible playbook:
 Execute the bash script on the Slave node and verify that the PHP application is accessible through the VM’s IP address (take screenshot of this as evidence)
 Create a cron job to check the server’s uptime every 12 am.
+
+https://github.com/laravel/laravel
