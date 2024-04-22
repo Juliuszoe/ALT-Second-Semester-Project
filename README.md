@@ -12,3 +12,8 @@ Execute the bash script on the Slave node and verify that the PHP application is
 Create a cron job to check the server’s uptime every 12 am.
 
 https://github.com/laravel/laravel
+
+Submission:
+
+
+# Create VMs
