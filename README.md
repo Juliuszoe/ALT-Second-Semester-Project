@@ -1,4 +1,4 @@
-# ALT-Second-Semester-Project
+![juliuse](https://github.com/Juliuszoe/ALT-Second-Semester-Project/assets/149674358/7eb5075d-73cc-4e74-8e12-aaa851e0a111)# ALT-Second-Semester-Project
 Deploying LAMP Stack
 (Deploy LAMP Stack)
 
@@ -35,9 +35,8 @@ Submission:
 # Run playbook
 <img width="623" alt="playbook" src="https://github.com/Juliuszoe/ALT-Second-Semester-Project/assets/149674358/8de28f1b-6740-4b8d-bd2e-579e34eac0c9">
 
+# Playbook success
+![juliuse](https://github.com/Juliuszoe/ALT-Second-Semester-Project/assets/149674358/0965aaa6-99e5-4ce5-b57c-7ed22fff73cf)
 
-
-
-
-
-
+# Testing on slave IP
+![julius](https://github.com/Juliuszoe/ALT-Second-Semester-Project/assets/149674358/018c12e1-65dc-42c9-ac52-4e0609496bb0)
